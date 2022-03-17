@@ -17,7 +17,7 @@ make
 
 # Licence
 
-Files under Vendor/ come directly from the CH32V307VCT6 project template packaged with MounRiver, a free to download toolchain for the WCH parts based on Eclipse.
-However, the source files themselves do not seem to contain a license..
+Unless otherwise stated files are licensed as BSD 2-Clause
 
+Files under `vendor/` are from openwch (https://github.com/openwch/ch32v307) Licensed under Apache-2.0
 Makefile is based on an example here: https://spin.atomicobject.com/2016/08/26/makefile-c-projects/
